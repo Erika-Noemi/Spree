@@ -1,0 +1,28 @@
+
+
+element.style {
+    background: #dc5d5d;
+}
+
+#spree-header {
+    background-color: #dc5d5d;
+    margin-bottom: 20px;
+}
+
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+
+body {
+    font-family: "Papyrus", Papyrus, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.428571429;
+    color: #090909;
+    background-color: #fff;
+}
+
